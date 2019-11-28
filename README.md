@@ -1,5 +1,4 @@
 # Scraper--Bot-bexar.tx.publicsearch.us
-Scraping bexar.tx.publicsearch.us for Records
 
 
 <!-- PROJECT LOGO -->
@@ -11,7 +10,6 @@ Scraping bexar.tx.publicsearch.us for Records
   <h3 align="center">Bot/Scraper</h3>
   <h3 align="center">Scraping bexar.tx.publicsearch.us for Records</a> </h3>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
