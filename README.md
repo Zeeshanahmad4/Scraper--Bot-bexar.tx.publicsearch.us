@@ -71,10 +71,15 @@ some fields are empty and some links to so bot will skip that item which has nul
 the bot is appending the CSV file make sure you are you delete old for every time you want new result.
 
 
-## Includes Files
-1. main.py for windows
-2. Result.csv (Full bot)
 
+## Contents
+
+```
+├── README.md
+├── main.py (Full bot)
+├── Result.csv
+
+```
 
 <!-- ROADMAP -->
 ## Roadmap
