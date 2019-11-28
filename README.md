@@ -35,7 +35,7 @@
 ## Code
 ![Code](https://github.com/Zeeshanahmad4/Scraper--Bot-bexar.tx.publicsearch.us/blob/master/demo/Capture2.PNG)
 
-## Profiles list to input i automated more then 5k Profiles with this bot.
+## Output Data
 ![Output-Data](https://github.com/Zeeshanahmad4/Scraper--Bot-bexar.tx.publicsearch.us/blob/master/demo/Capture3.PNG)
 
 
@@ -65,10 +65,10 @@ You can use this scraper for extracting county records output is in csv.
 ## order of csv columns:
 ``` name, document_number, number_of_pages, recorded_date, idate, page, consideration, cities, status ```
 
-bot will run on your browser and needs only links of the desire page(search result)
-you have to paste url(Your searched) equal to the bot url in line 34 of the bot .
-some fields are empty and some links to so bot will skip those item which has null value and will go for the next ,its depend upon your internet connection if lodaing takes much time it will go for next bot can be fast as you want but i use some wait function for making sure if you have slow connection it will wait for browsing.  
-bot is appending the csv file make sure you are you delet old for every time you want new result
+The bot will run on your browser and needs only links of the desired page(search result)
+you have to paste URL(Your searched) equal to the bot URL in line 34 of the bot.
+some fields are empty and some links to so bot will skip that item which has null value and will go for the next, its depend upon your internet connection if loading takes much time it will go for next bot can be fast as you want but I use some wait function for making sure if you have slow connection it will wait for browsing.  
+the bot is appending the CSV file make sure you are you delete old for every time you want new result.
 
 
 ## Includes Files
