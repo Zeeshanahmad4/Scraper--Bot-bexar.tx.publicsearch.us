@@ -66,9 +66,6 @@ You can use this scraper for extracting county records output is in csv.
 ``` name, document_number, number_of_pages, recorded_date, idate, page, consideration, cities, status ```
 
 The bot will run on your browser and needs only links of the desired page(search result)
-you have to paste URL(Your searched) equal to the bot URL in line 34 of the bot.
-some fields are empty and some links to so bot will skip that item which has null value and will go for the next, its depend upon your internet connection if loading takes much time it will go for next bot can be fast as you want but I use some wait function for making sure if you have slow connection it will wait for browsing.  
-the bot is appending the CSV file make sure you are you delete old for every time you want new result.
 
 
 
@@ -99,47 +96,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-## Contact me
-
-<table>
-  <tr>
-    <th>
-      <ahref="http://zeeshanahmad.me/" >
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit1.jpg" alt="Logo" width="182" height="90">
- </a> </th>
-    <th>
-      <a href="http://zeeshanahmad.me/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit2.jpg" alt="Logo" width="182" height="90">
- </a> </th>
-    <th>
-      <a href="http://zeeshanahmad.me/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit3.jpg" alt="Logo" width="182" height="90">
- </a> </th>
-    <th>
-      <a href="http://zeeshanahmad.me/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/edit41.jpg" alt="Logo" width="182  " height="90">
- </a> </th>
-    </tr>
- </table>
-<table>
-  <tr>
-    <th>
-      <a href="https://www.upwork.com/freelancers/~0180a61cf01f9bc71d" >
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/download.png" alt="Logo" width="182" height="80">
- </a> </th>
-    <th>
-      <a href="https://www.linkedin.com/in/zeeshan-ahmad-87098b105/">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/linked-in-3200.jpg" alt="Logo" width="182" height="80">
- </a> </th>
-    <th>
-      <a href="https://www.kaggle.com/zeeshanahmad4">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/Kaggle_logo.png" alt="Logo" width="182" height="80">
- </a> </th>
-    <th>
-      <a href="https://twitter.com/Zeeshan_Ahmad6">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/twitter-logo-png-open-2000.png" alt="Logo" width="182" height="80">
+thon/blob/master/multimedia/twitter-logo-png-open-2000.png" alt="Logo" width="182" height="80">
  </a> </th>
     </tr>
  </table>
